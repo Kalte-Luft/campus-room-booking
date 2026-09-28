@@ -1,0 +1,12 @@
+[
+  {"id":"a305","name":"Phòng A305","building":"Tòa A","floor":3,"kind":"Phòng học","capacity":40,"amenities":["Máy chiếu","Bảng trắng","Điều hòa","Wi-Fi"],"description":"Phòng học rộng với màn chiếu và bảng cho nhóm đông.","color":"#DAEEFF"},
+  {"id":"a406","name":"Phòng A406","building":"Tòa A","floor":4,"kind":"Phòng tự học","capacity":8,"amenities":["Wi-Fi","Ổ cắm","Điều hòa"],"description":"Không gian tự học yên tĩnh, có bàn và ổ cắm.","color":"#E8E8FF"},
+  {"id":"b210","name":"Lab B210","building":"Tòa B","floor":2,"kind":"Phòng lab","capacity":24,"amenities":["Máy tính","Máy chiếu","Wi-Fi","Điều hòa"],"description":"Phòng thực hành lập trình với máy tính.","color":"#E1F5ED"},
+  {"id":"b404","name":"Lab B404","building":"Tòa B","floor":4,"kind":"Phòng lab","capacity":14,"amenities":["Thiết bị thí nghiệm","Bảng trắng","Điều hòa"],"description":"Không gian thực hành thí nghiệm theo nhóm.","color":"#DEF3F5"},
+  {"id":"c103","name":"Phòng họp C103","building":"Tòa C","floor":1,"kind":"Phòng họp","capacity":10,"amenities":["Màn hình","Bảng trắng","Wi-Fi","Điều hòa"],"description":"Phòng họp nhóm với màn hình trình chiếu.","color":"#FFF0DB"},
+  {"id":"c304","name":"Phòng họp C304","building":"Tòa C","floor":3,"kind":"Phòng họp","capacity":18,"amenities":["Máy chiếu","Bảng trắng","Wi-Fi"],"description":"Phòng họp học thuật và trao đổi chuyên đề.","color":"#FCE5EB"},
+  {"id":"d101","name":"Góc học D101","building":"Tòa D","floor":1,"kind":"Phòng tự học","capacity":4,"amenities":["Wi-Fi","Ổ cắm"],"description":"Phòng nhỏ cho nhóm ôn tập tập trung.","color":"#F3E9FF"},
+  {"id":"d202","name":"Góc học D202","building":"Tòa D","floor":2,"kind":"Phòng tự học","capacity":12,"amenities":["Bảng trắng","Wi-Fi","Điều hòa","Ổ cắm"],"description":"Phòng tự học có bảng và nhiều ổ cắm.","color":"#E8F5DF"},
+  {"id":"e201","name":"Studio E201","building":"Tòa E","floor":2,"kind":"Studio","capacity":6,"amenities":["Máy quay","Đèn studio","Wi-Fi"],"description":"Không gian làm video và ghi hình bài thuyết trình.","color":"#FFEADB"},
+  {"id":"e302","name":"Studio E302","building":"Tòa E","floor":3,"kind":"Studio","capacity":8,"amenities":["Máy quay","Đèn studio","Màn hình","Điều hòa"],"description":"Studio ghi hình và trình bày đồ án sáng tạo.","color":"#FCE7F4"}
+]
